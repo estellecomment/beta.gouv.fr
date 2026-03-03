@@ -26,5 +26,11 @@ missions:
     employer: Malt
     startups:
       - tchap
+  - start: 2026-03-02
+    end: 2026-09-02
+    status: independent
+    employer: lazone
+    startups:
+       - agreste
 competences: []
 ---
